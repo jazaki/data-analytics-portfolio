@@ -2,15 +2,46 @@
 permalink: /
 layout: home
 title: Welcome
-list_title: My blog posts
 ---
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+My name is **Junaid Arham** and I am a professional Data Analyst having wide range of experience working in different domains of the Industry.
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+Below are some of the projects that I have worked upon either single handedly or as a part of a team.
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
+----
 
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter). Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from this [contact form](https://www.jorgesanz.net/contact/).
+## [Twitter Sentiment Analysis](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
 
-Have a great day!!
+Using Natural Language Processing (NLP) techniques to analyze the sentiments of the tweets and classify them into positive, negative and neutral.
+
+_Technologies Used_
+- Python
+- NLTK
+- Scikit-Learn
+- Pandas
+- Matplotlib
+- Seaborn
+
+## [Twitter Sentiment Analysis](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
+
+Using Natural Language Processing (NLP) techniques to analyze the sentiments of the tweets and classify them into positive, negative and neutral.
+
+_Technologies Used_
+- Python
+- NLTK
+- Scikit-Learn
+- Pandas
+- Matplotlib
+- Seaborn
+
+## [Speech Emotion Recognition](https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/)
+
+Using Machine Learning techniques to recognize the emotions of the speaker from the audio file.
+
+_Technologies Used_
+- Python
+- Librosa
+- Scikit-Learn
+- Pandas
+- Matplotlib
+- Seaborn
