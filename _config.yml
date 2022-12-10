@@ -16,6 +16,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
+  - _pages/about.md
   - _pages/journey.md
 
 include:
