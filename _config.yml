@@ -21,6 +21,8 @@ header_pages:
 
 include:
     - _pages
+    - assets
+      - images
 
 exclude: 
     - .gitignore
